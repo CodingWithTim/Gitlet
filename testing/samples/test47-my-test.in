@@ -1,0 +1,6 @@
+I setup2.inc
+> branch new
+<<<
+> checkout my new branch
+Incorrect operands.
+<<<

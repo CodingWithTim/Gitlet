@@ -1,0 +1,12 @@
+> init
+<<<
+> branch test
+<<<
++ a.txt a.txt
+> add a.txt
+<<<
+> commit "Added a.txt"
+<<<
+> checkout test --
+Incorrect Operands.
+<<<
